@@ -79,9 +79,9 @@ main {
   background-color: #fff; /* bgc#fff */
   padding: 0.0625rem 1.25rem 1.25rem 1.875rem; /* p1-20-20-30 */
 }
-section {
-  /* padding: 1rem; plrem */
-}
+/* section {
+   padding: 1rem; plrem;
+} */
 h1 {
   letter-spacing: 0.25em; /* lts.25em */
   margin-bottom: 0; /* mb0 */
